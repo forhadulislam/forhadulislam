@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hello Hello 👋
 
-<!--
-**forhadulislam/forhadulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Go and Kubernetes...
 - 🌱 I’m currently learning Rust and Flutter...
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Ovuvuevuevue Enyetuenwuevue Ugbemugbem Osas...
 - ⚡ Fun fact: The fear of vegetables is called Lachanophobia...
--->
+

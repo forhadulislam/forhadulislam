@@ -11,3 +11,16 @@
 - 😄 Pronunce this: Ovuvuevuevue Enyetuenwuevue Ugbemugbem Osas...
 - ⚡ Fun fact: The fear of vegetables is called Lachanophobia...
 
+### My stacks
+
+```yaml
+ what-am-i: "A full stack developer with a little bit of ML knowledge"
+ backEnd: 
+   - Golang
+   - Python
+   - Django
+ frontEnd: 
+   - Javascript
+   - A little bit of React
+```
+

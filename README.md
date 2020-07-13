@@ -20,7 +20,8 @@
    - Python
    - Django
  frontEnd: 
-   - Javascript
+   - JavaScript
+   - Bootstrap
    - A little bit of React
 ```
 

@@ -1,6 +1,6 @@
 ### Hello Hello 👋
 
- ♂🟤
+ ♂
 
 - ✅ I’m currently working on Go and Kubernetes...
 - 🌱 I’m currently learning Rust and Flutter...

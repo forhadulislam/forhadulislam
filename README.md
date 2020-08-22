@@ -9,8 +9,8 @@
  what-am-i: "A full stack developer with a little bit of ML knowledge"
  backEnd: 
    - Golang
-   - Python
-   - Django
+   - Python / Django
+   - Ruby / Rails
  frontEnd: 
    - JavaScript
    - Bootstrap

@@ -12,7 +12,7 @@
    - Python / Django
    - Ruby / Rails
  frontEnd: 
-   - JavaScript
+   - JavaScript / jQuery
    - Bootstrap
    - A little bit of React
  tools:

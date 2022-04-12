@@ -16,6 +16,7 @@
    - Bootstrap
    - A little bit of React
  tools:
+   - AWS
    - Docker / Kubetnetes
    - Jenkins
    - Shell

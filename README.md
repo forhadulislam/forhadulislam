@@ -13,8 +13,9 @@
    - Ruby / Rails
  frontEnd: 
    - JavaScript / jQuery
+   - React
    - Bootstrap
-   - A little bit of React
+   - A little bit of TypeScript
  tools:
    - AWS
    - Docker / Kubetnetes

@@ -14,6 +14,7 @@
  frontEnd: 
    - JavaScript / jQuery
    - React
+   - Next.js
    - Bootstrap
    - A little bit of TypeScript
  tools:
